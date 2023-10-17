@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[5]:
-
-
 import networkx as nx
 import random
 import matplotlib.pyplot as plt
@@ -36,10 +32,3 @@ plt.bar(labels,bandwidths,color=['blue','red'])
 plt.ylabel('Bandwidth')
 plt.title('Bandwidth Comparison')
 plt.show()
-
-
-# In[ ]:
-
-
-
-
